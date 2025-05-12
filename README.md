@@ -23,7 +23,7 @@
 
 ---
 
-### 💡 Who I Am
+### 💡 About Me
 
 - 🎓 M.A. in Computer Science (UPenn), Psychology (Neuroscience & Cognitive Development Pathway) B.A. (Stanford)
 - 🌍 Led bilingual coding education in 🇲🇽 🇧🇷 🇺🇾 — built wearable tech with middle schoolers
