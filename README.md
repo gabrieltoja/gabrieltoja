@@ -25,7 +25,7 @@
 
 ### 💡 Who I Am
 
-- 🎓 M.A. in Computer Science (UPenn), Neuroscience B.A. (Stanford)
+- 🎓 M.A. in Computer Science (UPenn), Psychology (Neuroscience & Cognitive Development Pathway) B.A. (Stanford)
 - 🌍 Led bilingual coding education in 🇲🇽 🇧🇷 🇺🇾 — built wearable tech with middle schoolers
 - 🧠 Creator of **Accessbility Shox**, an app suite featured on the App Store & praised by the disabled community
 - ⚙️ Engineer + Analyst: Leveraged **SQL + CRM workflows** to coordinate 50+ virtual events and track 2,000+ participants
