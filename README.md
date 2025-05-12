@@ -53,7 +53,7 @@
 
 ### 🧭 Projects in Appccessibility Shox (Org)
 
-> Co-founder and COO of [**Appccessibility Shox**](https://github.com/Appccessibility-Shox), a suite of open-source accessibility extensions featured by the App Store, tech blogs, and accessibility communities.  
+> Co-founder and COO of [**Appccessibility Shox**](https://appccessibility-shox.github.io/), a suite of open-source accessibility extensions featured by the App Store, tech blogs, and accessibility communities.  
 > We design tools that make the internet easier to navigate for disabled users, language learners, and neurodivergent communities.
 
 Below are a few key projects — and right after this table, I highlight my most significant contribution: **Vocabulary Log** 🧠.
